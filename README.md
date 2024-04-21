@@ -2,6 +2,9 @@
 
 This is a tiny little corner of Github but you can obviously connect with me over from my own [platform](https://codlocker.github.io/ipsit-portfolio)
 
+[![codlocker's GitHub stats](https://github-readme-stats.vercel.app/api?username=codlocker)](https://github.com/anuraghazra/github-readme-stats)
+
+
 Here are some of my top research projects
 
 - IOT Network Attack mitigation using Behavior Detection techniques [Source](https://github.com/codlocker/IOT_Network_Attack)
