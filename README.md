@@ -8,7 +8,9 @@ Here are some of my top research projects
 - HTTP botnet detection in IOT devices using network traffic analysis [Source](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=k4a3e4oAAAAJ&citation_for_view=k4a3e4oAAAAJ:u-x6o8ySG0sC)
 
 1. Projects I am currently working in Golang
+
 [![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
+
 - Beginner level projects to understand basics of Go programming. [Source](https://github.com/codlocker/Go-Projects)
 - Implementation of a Mafia based CLI game used by security teams to teach OS security and hacking tools [Source](https://github.com/codlocker/werewolves-go)
 
@@ -26,6 +28,8 @@ Here are some of my top research projects
     - [IT department logging system](https://github.com/codlocker/it-logger)
 
 3. Python projects worked on as a freelancer as well as during hackathons
+
 [![My Skills](https://skillicons.dev/icons?i=django,python,aws)](https://skillicons.dev)  
+
    - Django based project to build a quiz taking app. This was build as a freelance [project](https://github.com/codlocker/quiz-app) and sold to a no-name startup in 2017.
    - AWS Face Recognition [app](https://github.com/codlocker/AWS-Face-Recognition) built as part of CSE 531 course at ASU
