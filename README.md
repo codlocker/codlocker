@@ -10,7 +10,7 @@ Here are some of my top research projects
 - IOT Network Attack mitigation using Behavior Detection techniques [Source](https://github.com/codlocker/IOT_Network_Attack)
 - HTTP botnet detection in IOT devices using network traffic analysis [Source](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=k4a3e4oAAAAJ&citation_for_view=k4a3e4oAAAAJ:u-x6o8ySG0sC)
 
-1. Projects I am currently working in Golang
+1. Projects worked on using Golang
 
 [![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
 
