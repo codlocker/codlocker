@@ -16,14 +16,14 @@ Here are some of my top research projects
 [![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
 
 - Beginner level projects to understand basics of Go programming. [Source](https://github.com/codlocker/Go-Projects)
-- Implementation of a Mafia based CLI game used by security teams to teach OS security and hacking tools [Source](https://github.com/codlocker/werewolves-go)
+- Implementation of a Mafia based CLI game used by security teams to teach OS security and hacking tools using gRPC and Holllywood (Actor model) [Source](https://github.com/codlocker/werewolves-go)
 
 2. Here are some of my top JavaScript projects
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,materialui)](https://skillicons.dev)
 
-  - A web-tier application for uploading images to AWS SQS for an image processing backend. [Source](https://github.com/codlocker/AWS-SQS-Usage)
-  - A decentralized file store built using IPFS to showcase advantages of a quorum based system. [Source](https://github.com/codlocker/DASSH-IPFS-App)
+  - A web-tier application for uploading images to AWS SQS for an image processing backend in Node.js. [Source](https://github.com/codlocker/AWS-SQS-Usage)
+  - A decentralized file store built using IPFS to showcase advantages of a quorum based system in Node.js. [Source](https://github.com/codlocker/DASSH-IPFS-App)
   - A bunch of beginner level projects for learning different aspects of Vanilla JS, JQuery and CSS
     - [Personal project](https://github.com/codlocker/Small-Projects)
     - [Course Web Developer Assignments](https://github.com/codlocker/WebD_Assignments)
