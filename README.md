@@ -23,7 +23,7 @@ Here are some of my top research projects
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,materialui)](https://skillicons.dev)
 
   - A web-tier application for uploading images to AWS SQS for an image processing backend in Node.js. [Source](https://github.com/codlocker/AWS-SQS-Usage)
-  - A decentralized file store built using IPFS to showcase advantages of a quorum based system in Node.js. [Source](https://github.com/codlocker/DASSH-IPFS-App)
+  - A decentralized file store built using IPFS to showcase advantages of a quorum based system in Next.js. [Source](https://github.com/codlocker/DASSH-IPFS-App)
   - A bunch of beginner level projects for learning different aspects of Vanilla JS, JQuery and CSS
     - [Personal project](https://github.com/codlocker/Small-Projects)
     - [Course Web Developer Assignments](https://github.com/codlocker/WebD_Assignments)
