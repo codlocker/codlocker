@@ -20,7 +20,7 @@ Here are some of my top research projects
 
 2. Here are some of my top JavaScript projects
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,materialui,typescript)](https://skillicons.dev)
 
   - A web-tier application for uploading images to AWS SQS for an image processing backend in Node.js. [Source](https://github.com/codlocker/AWS-SQS-Usage)
   - A decentralized file store built using IPFS to showcase advantages of a quorum based system in Next.js. [Source](https://github.com/codlocker/DASSH-IPFS-App)
