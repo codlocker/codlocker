@@ -38,3 +38,7 @@ Here are some of my top research projects
 
    - Django based project to build a quiz taking app. This was build as a freelance [project](https://github.com/codlocker/quiz-app) and sold to a no-name startup in 2017.
    - AWS Face Recognition [app](https://github.com/codlocker/AWS-Face-Recognition) built as part of CSE 531 course at ASU
+
+4. Python projects in Machine Learning
+   - Implemented a research paper that proposes an improved and optimized split function for a Decision Tree. The algorithm was applied on Breast cancer, Car Sales dataset picked from well-known source to evaluate its performance against a Standard Decision Tree algorithm. [Source](https://github.com/codlocker/EEE-598-Project/blob/master/Readme.md)
+   - Proposes a comparision for a better K-means approach (among Euclidean, Cosine and Jacard K-means) calculations. [Source](https://github.com/codlocker/CSE-572-Data-Mining/blob/master/HW3-Task1.ipynb)
